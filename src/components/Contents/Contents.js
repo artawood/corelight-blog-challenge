@@ -1,11 +1,9 @@
 import React from "react";
-import Card from "./Blog/Card";
+import BlogWrapper from "./Blog";
 
 const Contents = () => (
   <div className="container">
-    <div className="blog">
-      <Card />
-    </div>
+    <BlogWrapper />
   </div>
 );
 

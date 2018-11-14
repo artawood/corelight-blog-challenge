@@ -15,3 +15,13 @@ p,
 details {
   font-family: "Lato", sans-serif;
 }
+
+summary,
+details,
+p {
+  font-size: 20px;
+}
+
+.display-none {
+  display: none;
+}
